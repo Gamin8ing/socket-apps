@@ -59,9 +59,10 @@ A collection of socket-based applications showcasing the fundamentals of network
 - Lightweight and efficient implementation using low level C sockets.
 
 ### Demo
-<video src="./chatapp/screen_rec.mp4" controls="controls" style="max-width: 100%; height: auto; border-radius: 10px;">
-Video tag not supported
-</video>
+
+https://github.com/user-attachments/assets/f71d279e-cda0-4b51-80ad-cfdca726353d
+
+
 
 ### Usage
 1. Compile both server and client:
